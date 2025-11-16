@@ -1,35 +1,41 @@
 [
   {
+    "id": 1,
     "nombre": "Cheesecake",
     "precio": 2.00,
     "imagen": "https://images.aws.nestle.recipes/resized/2020_06_23T11_58_39_mrs_ImageRecipes_32354lrg_1080_850.jpg",
     "descripcion": "Clásico cheesecake cremoso con textura suave y un delicado sabor que se derrite en cada bocado."
   },
    {
+     "id": 2,
     "nombre": "Torta de chocolate",
     "precio": 2.00,
     "imagen": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/05b9ae1f5302940549596ce7d2d0c240.jpg",
      "descripcion": "Bizcocho húmedo y esponjoso con intenso sabor a cacao, ideal para los amantes del chocolate."
   },
    {
+     "id": 3,
     "nombre": "Dulce de tres leches",
     "precio": 2.00,
     "imagen": "https://cdn0.recetasgratis.net/es/posts/1/4/4/dulce_de_tres_leches_facil_24441_orig.jpg",
      "descripcion": "Postre tradicional bañado en una mezcla perfecta de tres leches, suave, dulce y muy esponjoso."
   },
   {
+    "id": 4,
     "nombre": "Galletas",
     "precio": 1.00,
     "imagen": "https://recetasdecocina.elmundo.es/wp-content/uploads/2015/09/cookies-receta.jpg",
     "descripcion": "Galletas caseras crujientes por fuera y suaves por dentro, con un irresistible aroma a mantequilla."
   },
   {
+    "id": 5,
     "nombre": "Cupcake",
     "precio": 1.50,
     "imagen": "https://sugargeekshow.com/wp-content/uploads/2022/08/vanilla_cupcake_featured_blog.jpg",
     "descripcion": "Cupcake esponjoso con frosting suave y decoraciones delicadas, perfecto para cualquier ocasión."
   },
   {
+    "id": 6,
     "nombre": "Brownie",
     "precio": 1.25,
     "imagen": "https://www.cocinista.es/download/bancorecursos/recetas/receta-brownies.jpg",
